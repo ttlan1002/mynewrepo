@@ -3,8 +3,4 @@ linhan
 swap
 swap
 add new line to new repo
-<<<<<<< HEAD
 add second line to new repo (local)
-=======
-add second line on new repo (web)
->>>>>>> 23e715b738a125787bd14ffd14412ee2920b6866
